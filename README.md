@@ -4,3 +4,5 @@
 
 Datasets link:
 https://www.kaggle.com/datasets/csafrit2/plant-leaves-for-image-classification
+
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
